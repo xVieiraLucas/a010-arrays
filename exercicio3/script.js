@@ -17,7 +17,7 @@ arrayscopia.pop()
 console.log(arrays , arrayscopia)
 
 const misturaLouca = [99 , "flamengo" , true]
-const misturaLoucacopia = misturaLouca.slice()
-misturaLoucacopia.splice(1, 1)
-console.log(misturaLouca , misturaLoucacopia)
+const misturaLoucaCopia = misturaLouca.slice()
+misturaLoucaCopia.splice(1, 1)
+console.log(misturaLouca , misturaLoucaCopia)
 
